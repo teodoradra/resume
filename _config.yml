@@ -132,11 +132,11 @@ content:
         caption: 2010 - 2013
         sub_title: BSc Computer Science
         description: | # this will include new lines to allow paragraphs
-          Developed a solid understanding of computer science fundamentals.
+            Developed a solid understanding of computer science fundamentals.
           
-          Studied a range of subjects including Programming, Cloud Infrastructure, OOP, System Design, Artificial Intelligence, and more.
+            Studied a range of subjects including Programming, Cloud Infrastructure, OOP, System Design, Artificial Intelligence, and more.
           
-          Conducted a thesis on "Speech Enhancement with Recurrent Neural Network".
+            Conducted a thesis on "Speech Enhancement with Recurrent Neural Network".
           
         
   - title: A Little More About Me
